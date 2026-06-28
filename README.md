@@ -25,4 +25,7 @@ I am a passionate **B.Tech Computer Science & Engineering (CSE)** student curren
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhvaniShah06-Project&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhvaniShah06-Project&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Dhvani's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhvaniShah06-Project&theme=dracula&hide_border=true" alt="Dhvani's GitHub Streak" width="48%" />
+</p>
