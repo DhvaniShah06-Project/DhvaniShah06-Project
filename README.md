@@ -1,15 +1,9 @@
 <div align="center">
 
-<h1>👋 Hi! I'm Dhvani Shah 💻</h1>
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=👋%20Hello%20%20,%20I%20am%20Dhvani%20Shah%20💻&fontSize=45&fontColor=4169E1&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 
-<!-- HEADER BANNER IMAGE -->
-<p align="center">
-  <img src="https://unsplash.com" width="100%" alt="Minimalist Coding Header Banner" style="border-radius: 8px;" />
-</p>
+
 
 </div>
 
@@ -39,42 +33,34 @@ I am a passionate **5th Semester B.Tech Computer Science & Engineering** student
 
 </div>
 
----
 
-## 🎬 Tech & Project Video Spotlights
 
-> [!TIP]
-> ### 💡 Tech Concept Walkthrough & Architecture
-> Visual explanations help unwrap heavy application systems. Below is a video showcasing full-stack application data flows, mobile layouts, and backend scaling tricks.
-
-<!-- TECH VIDEO LINK PREVIEW -->
-<p align="center">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://youtube.com" width="80%" alt="Tech Video Walkthrough Preview" style="border-radius: 8px; border: 2px solid #0175C2;"/>
-  </a>
-</p>
-
-<p align="center">
-  🎬 <b>Click the thumbnail above or link below to view the full presentation:</b> <br>
-  <a href="https://youtube.com" target="_blank">👉 Watch Tech Build & Demo Video on YouTube</a>
-</p>
 
 ---
 
 ## 📈 GitHub Metrics & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DhvaniShah06-Project&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=DhvaniShah06-Project&mode=daily&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+<img src="https://streak-stats.demolab.com?user=DhvaniShah06-Project&mode=daily&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
+
 </div>
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=DhvaniShah06-Project&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhvaniShah06-Project&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+<hr/>
 
 ---
 
