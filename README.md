@@ -1,77 +1,74 @@
-# Hello 👋
+<h1 align="center">👋 Hi! I'm Dhvani 💻</h1>
 
-## About me
+###
 
-* 👨‍💻 I am currently pursuing a Bachelor of Technology in Computer Science and Engineering (Semester 5).
-* 📚 Learning and exploring various programming languages, cross-platform app frameworks, and smart automation.
-* 🚀 Interested in developing sleek user interfaces with Flutter and building connected ecosystems using IoT.
+<h3 align="center">B.Tech CSE | 5th Semester | Exploring the World of Code</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhvani&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani" />
+</p>
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <!-- Left Column: Laptop GIF/Image -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0N3g3Mm56ZXB6Ym0wNmR5M3N6YTY3Y29wM3Nnbm9wZzh6Yms0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Laptop" width="100%" />
-    </td>
-    <!-- Right Column: Tech Overview Split Matrix -->
-    <td width="60%" valign="top">
-      <h3 align="center">Tech Overview</h3>
-      <hr />
-      <p align="center"><strong>Programming Languages</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <hr />
-      <p align="center"><strong>Mobile & Web Developing</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Nest.js" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="node.js" />
-      </p>
-      <hr />
-      <p align="center"><strong>Database Tools</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-    </td>
-  </tr>
+## 🔥 About Me
+- 🎓 **5th Semester B.Tech CSE student**
+- 💻 Interested in **ML, Databases, Full Stack Development**
+- 🌱 Improving **Python, SQL, DBMS, and DSA**
+- 🧩 Love solving logical & coding problems
+
+---
+<table align="center">
+<tr>
+<td>
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🟦 C &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🟧 JavaScript &nbsp;•&nbsp; 🧵 HTML &nbsp;•&nbsp; 🎨 CSS
+</h3>
+
+<h4 align="center">⚛️ Frameworks & Libraries</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+⚛️ React &nbsp;•&nbsp; ▲ Next.js &nbsp;•&nbsp; 🛡️ NestJS &nbsp;•&nbsp; 🟩 Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 💨 Tailwind &nbsp;•&nbsp; 🧩 Bootstrap
+</h3>
+
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🪣 MS SQL Server &nbsp;•&nbsp; 🍃 MongoDB
+</h3>
+
+<h4 align="center">🧠 Core CS Subjects</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+📚 DSA &nbsp;•&nbsp; 🧵 OOP &nbsp;•&nbsp; 🛢️ DBMS
+</h3>
+
+<h4 align="center">🔧 Tools</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧰 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 📝 VS Code &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; ⚡ REST APIs
+</h3>
+
+<h4 align="center">🧩 Additional Skills</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧠 Logic &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Dev &nbsp;•&nbsp; 🛠️ Problem Solving
+</h3>
+
+</td>
+</tr>
 </table>
 
 ---
+## 📈 GitHub Stats & Activity
+<br clear="both">
 
-## 📊 My Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhvaniShah06-Project&show_icons=true&theme=dark&hide_border=false" alt="Dhvani's GitHub Stats" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhvaniShah06-Project&theme=react-dark" alt="Dhvani's Contribution Graph" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Debugging%20is%20the%20process%20of%20removing%20software%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.&author=Edsger%20W.%20Dijkstra" alt="Dijkstra Quote Card" width="80%" />
-</p>
-
----
-
-## 🌐 Let's Connect and Collaborate!
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="dhvanihshah06@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
----
-
-## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhvani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhvani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
